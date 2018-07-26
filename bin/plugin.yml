@@ -1,0 +1,13 @@
+name: SimpleTokens
+version: 1.0
+author: MattieOfficial
+main: me.MattieOfficial.UltimateServerTokens.Main
+commands:
+  tokens:
+    description: The main command! Use /tokens help for more info
+  token:
+    description: Alias of the main command
+  simpletokens:
+    description: The main admin command. Use /ust help for more info
+  st:
+    description: Alias of the main admin command
